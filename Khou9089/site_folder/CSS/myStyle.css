@@ -1,0 +1,58 @@
+/* STYLE SHEET FOR (personal web site) */
+
+body
+{
+margin:50px;
+background-color:#DCD0FF;
+}
+
+div.top
+{
+width:800px;
+border:0px;
+background-color:#92B4F2;
+padding:50px;
+margin:0px;
+}
+
+div.small
+{
+display:inline-block;
+position:relative;
+float:center;
+width:80px;
+border:0px;
+background-color:#FFD1DC;
+padding:5px;
+margin:1%;
+}
+
+div.box
+{
+width:700px;
+border:15px ;
+background-color:#FDFD96;
+padding:50px;
+margin:40px;
+}
+
+h1
+{
+font-weight: bold;
+text-decoration: underline;
+color: #734F96;
+font-size: 160%;
+margin-bottom: 25px;
+margin-top:0px;
+}
+
+h3
+{
+display: block;
+font-size:1.17em;
+margin-top:1em;
+margin-bottom:1em;
+margin-left:0;
+margin-right:0;
+font-weight:bold;
+}
